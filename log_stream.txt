@@ -1,0 +1,7 @@
+title: title1
+type: error
+message: some message 1
+
+title: title2
+type: error
+message: some message 2
